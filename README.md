@@ -46,7 +46,7 @@
 <br/>
 [모든 개발자를 위한 HTTP 웹 개발 지식](https://www.inflearn.com/certificate/483034-326277-4569457)
 <br/>
-[컴퓨터 네트워크 (부산대학교 유영환 교수 / KMOOC)](https://codechan25.tistory.com/category/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%20%EC%9D%B4%EB%A1%A0/%EC%BB%B4%ED%93%A8%ED%84%B0%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+[컴퓨터 네트워크 (부산대학교 유영환 교수 / KMOOC)](https://github.com/taechacode/ComputerScienceRepository/tree/master/Computer%20Network)
 <br/>
 <br/>
 :book:Books
