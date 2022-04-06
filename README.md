@@ -50,6 +50,8 @@
 <br/>
 [실전 JSP (renew ver.) - 신입 프로그래머를 위한 강좌](https://www.inflearn.com/certificate/483034-182737-2297041)
 <br/>
+[자바 프로그래밍 입문 강좌 (renew ver.) - 초보부터 개발자 취업까지!!](https://www.inflearn.com/certificate/483034-182835-2297043)
+<br/>
 [모든 개발자를 위한 HTTP 웹 개발 지식](https://www.inflearn.com/certificate/483034-326277-4569457)
 <br/>
 [컴퓨터 네트워크 (부산대학교 유영환 교수 / KMOOC)](http://www.kmooc.kr/certificates/4e0093a97bfa40318f9ad550f0eee60e)
