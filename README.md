@@ -57,6 +57,8 @@
 <br/>
 [모든 개발자를 위한 HTTP 웹 개발 지식](https://www.inflearn.com/certificate/483034-326277-4569457)
 <br/>
+[스프링 핵심 원리 - 기본편](https://www.inflearn.com/certificate/483034-325969-4569458)
+<br/>
 [컴퓨터 네트워크 (부산대학교 유영환 교수 / KMOOC)](http://www.kmooc.kr/certificates/4e0093a97bfa40318f9ad550f0eee60e)
 <br/>
 <br/>
