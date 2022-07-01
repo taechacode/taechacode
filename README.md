@@ -61,11 +61,14 @@
 <br/>
 [컴퓨터 네트워크 (부산대학교 유영환 교수 / KMOOC)](http://www.kmooc.kr/certificates/4e0093a97bfa40318f9ad550f0eee60e)
 <br/>
+
+<!--
 <br/>
 :book:Books
 <br/>
 객체지향의 사실과 오해
 <br/>
+-->
 
 <!--
 **taechacode/taechacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
