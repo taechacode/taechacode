@@ -79,6 +79,8 @@
 <br/>
 [스프링 MVC 1편 - 백엔드 웹 개발 핵심 기술](https://www.inflearn.com/certificate/483034-326674-4569459)
 <br/>
+[스프링 DB 1편 - 데이터 접근 핵심 원리](https://www.inflearn.com/certificate/483034-328723-10450739)
+<br/>
 [컴퓨터 네트워크 (부산대학교 유영환 교수 / KMOOC)](http://www.kmooc.kr/certificates/4e0093a97bfa40318f9ad550f0eee60e)
 <br/>
 
