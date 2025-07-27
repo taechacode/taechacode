@@ -8,14 +8,20 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taechacode)](https://solved.ac/taechacode/)
 [![mazandi profile](http://mazandi.herokuapp.com/api?handle=taechacode&theme=warm)](https://solved.ac/taechacode/)
 <br/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <br/>
 <br/>
 
 ### Education & Experiences
 ---
+:office:iM증권 수익증권/연금저축/ISA/퇴직연금 개발 및 운영
+<br/>
+(2025년 7월 ~)
+<br/>
 :bank:경남은행 계정계(퇴직연금) 개발 및 운영
 <br/>
 (2022년 8월 ~ 2025년 7월)
